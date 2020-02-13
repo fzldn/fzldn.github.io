@@ -1,22 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="1080.000000pt" height="1080.000000pt" viewBox="0 0 1080.000000 1080.000000"
- preserveAspectRatio="xMidYMid meet">
-<metadata>
-Created by potrace 1.11, written by Peter Selinger 2001-2013
-</metadata>
-<g transform="translate(0.000000,1080.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
-<path d="M3271 10066 c2 -2 42 -10 89 -16 104 -14 272 -69 360 -117 305 -168
-514 -465 565 -803 12 -74 15 -221 15 -677 l0 -583 1688 0 c1848 0 1774 -2
-1956 59 169 58 320 154 444 285 128 135 221 300 269 481 24 90 27 117 27 275
-0 158 -3 184 -26 272 -120 442 -485 762 -933 817 -63 8 -743 11 -2274 11
--1201 0 -2182 -2 -2180 -4z"/>
-<path d="M4300 5098 c0 -332 -5 -613 -10 -653 -34 -239 -131 -441 -293 -612
--170 -179 -382 -290 -627 -329 -52 -8 -99 -16 -105 -19 -5 -2 1000 -3 2235 -1
-l2245 2 86 21 c440 110 763 446 845 880 22 118 15 343 -15 459 -90 357 -359
-653 -705 773 -181 64 -92 61 -1957 61 l-1699 0 0 -582z"/>
-</g>
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="211" y="73.4166" width="658" height="219.333" rx="109.667" fill="#3A496A"/>
+<rect x="211" y="512.083" width="658" height="219.333" rx="109.667" fill="#3A496A"/>
+<rect x="211" y="731.417" width="658" height="219.333" rx="109.667" transform="rotate(-90 211 731.417)" fill="#3A496A"/>
+<circle cx="320.667" cy="895.917" r="109.667" fill="#3A496A"/>
 </svg>
